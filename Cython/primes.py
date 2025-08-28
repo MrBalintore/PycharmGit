@@ -23,16 +23,18 @@ def all_primes():
         if is_a_prime:
             primes.append( (n, n * n) )
             yield n
-
+"""
+ADDING A COMMENT
+"""
 def main():
     
     for i in range(5):
         p = all_primes()
         n = pow(10,i)
-        print n
+        print (n)
         ten = list( islice(p,n-1,n+9,1) )
-        print ten
-        print ten[0] / float(n)
+        print (ten)
+        print (ten[0] / float(n))
 
 if __name__ == "__main__":
     main()

@@ -3,9 +3,9 @@ from itertools import islice
 def prime_candidates():
     yield 2
     p = 3
-    while true:
+    while True:
         yield p
-        p = p += 2
+        p = p + 2
 
 def all_primes():
     primes = []
@@ -21,7 +21,8 @@ def all_primes():
 
 def main():
     p = all_primes()
-    p.islice(10)
+    first_10_primes = islice(p,10)
+    print(list(first_10_primes))
 
 if __name__ == "__main__":
     main()
