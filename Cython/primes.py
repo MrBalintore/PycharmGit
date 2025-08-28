@@ -24,7 +24,7 @@ def all_primes():
             primes.append( (n, n * n) )
             yield n
 """
-ADDING A COMMENT
+ADDING A COMMENT on the web
 """
 def main():
     
