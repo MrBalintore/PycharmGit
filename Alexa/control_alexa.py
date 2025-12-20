@@ -8,8 +8,14 @@ PASSWORD = "toklas"
 URL = "amazon.com"  # or "amazon.co.uk", "amazon.de", etc.
 DEVICE_NAME = "Living Room Echo"  # The friendly name of your Alexa device
 DEVICE_NAME = "DR's Echo Studio"
+def of(input:str):
+    output = r"""C:\Users\david\PycharmProjects\PycharmGit\Alexa"""
+    return output
+
 async def send_tts():
-    login = AlexaLogin(EMAIL, PASSWORD, URL, "your-device-serial")
+    o = "your-device-serial"
+    o = "G2A0XL07027601GX"
+    login = AlexaLogin(EMAIL, PASSWORD, URL, of)
     await login.login()
     devices = await AlexaAPI.get_devices(login)
 
