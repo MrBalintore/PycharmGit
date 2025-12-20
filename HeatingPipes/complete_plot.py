@@ -1,3 +1,6 @@
+"""
+module to do a complete plot
+"""
 import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.path import Path
