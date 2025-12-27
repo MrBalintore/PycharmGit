@@ -1,0 +1,6 @@
+cp "C:\Users\david\Downloads\SnapInsta.to_AQPHBBVgQjPgBadMLY--uvSzi-6IV1RAzy6jMpv4iJ834zHKpvq1A4U8eyts_qt8kgAdmZ_5_IE6RI1TMSe2OpXu3gtTtDOPkyRj_As.mp4" a.mp4
+cp "C:\Users\david\Downloads\SnapInsta.to_AQO2mbyK3dPO38XIciLRCeC7TNIFhLdDkMIhAM8DPGLU1WRtL1BdVXgk3yg6_ml8aAU5HU66WtKIPaSO1Ry9vW0d5mx3_r0ED6K9Qjc.mp4" b.mp4
+cp "C:\Users\david\Downloads\SnapInsta.to_AQNZlR4U2Jw_eY7mI740Rzb7FTSfN5TCEwS9D8sKrhCzo5eBz-gcs38w1Tx0UYAglgVlMuGeKarcIUAW5KJz7_NOfzPETilRquJayWQ.mp4" c.mp4
+cp "C:\Users\david\Downloads\SnapInsta.to_AQMmGtjkDSQyEKpO_FF4ou8inyDlBETwcV_3AsEcdTjGRs_3B9mfXdvdIrFs3sHfo4hz6Z6fYR34SejRQIMAosyC5DUxVEOxdPMaU_0.mp4" d.mp4
+cp "C:\Users\david\Downloads\SnapInsta.to_AQMmGtjkDSQyEKpO_FF4ou8inyDlBETwcV_3AsEcdTjGRs_3B9mfXdvdIrFs3sHfo4hz6Z6fYR34SejRQIMAosyC5DUxVEOxdPMaU_0.mp4" 2.mp4
+
