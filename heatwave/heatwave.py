@@ -10,12 +10,12 @@ def sequence_to_probability(sequence, individual_probabilities):
         else:
             p *= (1 - individual_probabilities[i])
     return p
-""
+"""
 PyCharm Pro
 Download
 License ID:
 LA5R8BS7ZZ
-""""""
+"""
 
 def main():
     a = 0.9
