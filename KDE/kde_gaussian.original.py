@@ -41,6 +41,8 @@ def main():
     ax.imshow(np.rot90(Z), cmap=plt.cm.gist_earth_r,
               extent=[xmin, xmax, ymin, ymax])
 
+
+
     # plot the original points:
     ax.plot(m1, m2, 'k.', markersize=2)
     ax.set_xlim([xmin, xmax])

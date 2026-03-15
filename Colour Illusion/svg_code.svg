@@ -1,0 +1,11 @@
+<svg width="900" height="700">
+  <circle cx="450" cy="260" r="180" fill="cyan"/>
+  <circle cx="310" cy="430" r="180" fill="magenta"/>
+  <circle cx="590" cy="430" r="180" fill="black"/>
+
+  <circle cx="450" cy="380" r="140" fill="darkblue"/>
+
+  <rect x="0" width="10" height="700" fill="blue"/>
+  <rect x="20" width="10" height="700" fill="blue"/>
+  ...
+</svg>
